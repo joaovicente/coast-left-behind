@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Stars and Stones",
+        "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+        "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+        "lat": 52.972536,
+        "long": -6.007645
+        "dateCreated" : 2001,
+		"dimensions" : "77 cm × 53 cm (30 in × 21 in)",
+		"description" : "Description of Stars and Stones II" 
+    },
+    {
+        "name": "Stars and Stones II",
+        "imgMarkerUrl": "img/Stars_and_Stones_II_50px.jpg",
+        "imgPreviewUrl": "img/Stars_and_Stones_II.jpg",
+        "lat": 54.349013,
+        "long": -8.679355,
+        "dateCreated" : 2001,
+		"dimensions" : "77 cm × 53 cm (30 in × 21 in)",
+		"description" : "Description of Stars and Stones II"
+    }
+]
