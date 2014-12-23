@@ -8,10 +8,10 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
   function($scope, $http)	{
     // Get geoAartworks
     $http.get('data/geoArtworks.json').success(function(data) {
-        $scope.geoArtworks= data;
+    $scope.geoArtworks= data;
       });
     // Base map properties
-	// TODO: Derive map center from center point across all geo geoArtworks locations 
+    // TODO: Derive map center from center point across all geo geoArtworks locations 
     var ll = new google.maps.LatLng(53.4137833,-7.7650354);
     $scope.mapOptions = {
       center: ll,
@@ -40,14 +40,18 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
     
     //Markers should be added after map is loaded	
     $scope.onMapIdle = function() {
+	console.log("onMapIdle");
         if ($scope.myMarkers === undefined){
          for (var i in $scope.geoArtworks)	{
         	 $scope.addMarker($scope.geoArtworks[i]);
+		 console.log(i);
          }
         }
         console.log($scope.geoArtworks);
     };
+
     $scope.showMarkerInfo = function(marker) {  
+	console.log("showMarkerInfo");
         $scope.currentMapInfoWindowName = marker.mapInfoWindowName;
         $scope.currentMapInfoWindowImg = marker.mapInfoWindowImg;
     	$scope.myInfoWindow.open($scope.myMap, marker);
