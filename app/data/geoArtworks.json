@@ -1,24 +1,154 @@
 [
-    {
-        "name": "Stars and Stones",
-        "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-        "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
-        "lat": 52.972536,
-        "long": -6.007645,
-        "dateCreated" : 2001,
-	"dimensions" : "77cm x 53cm (30in x 21in)",
-	"description" : "Description of Stars and Stones II" 
-
-    },
-    {
-        "name": "Stars and Stones II",
-        "imgMarkerUrl": "img/Stars_and_Stones_II_50px.jpg",
-        "imgPreviewUrl": "img/Stars_and_Stones_II.jpg",
-        "lat": 54.349013,
-        "long": -8.679355,
-        "dateCreated" : 2001,
-	"dimensions" : "77 cm x 53 cm (30 in x 21 in)",
-	"description" : "Description of Stars and Stones II"
-
-    }
+  {
+    "name": "Poolbeg",
+    "locationName": "Sandymount, Dublin",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "long": -6.208541,
+    "description": "Although he leaves this shore.<br>He looks back more and more.<br>It is ever deep in his hearts core<br>"
+  },
+  {
+    "name": "The flight of the earls",
+    "locationName": "kilcoole strand, wicklow",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 53.106173,
+    "long": -6.041466,
+    "description": "The end of the old gaelic order"
+  },
+  {
+    "name": "Cill Mhantáin",
+    "locationName": "Wicklow, ? beach",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 52.978497,
+    "long": -6.030538,
+    "description": "A little cove where some monks landed and were driven off by local people (Vikings?) who threw stones that broke the teeth of one of the monks"
+  },
+  {
+    "name": "Knockadoon",
+    "locationName": "Knockadoon, Cork",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 51.900849,
+    "long": -7.906572,
+    "description": "Out of the mist, a horseman rode.<br>All my romantic responses explode.<br>"
+  },
+  {
+    "name": "A message",
+    "locationName": "Temple Brady, Crosshaven",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 51.809556,
+    "long": -8.280306,
+    "description": "A now deserted army camp purched by the sea.<br>A sense of ghost of young men in kaki, all dead and gone.<br>Now gull and crow live and breathe and the knowledge of the sea, we sadly unheed.<br>"
+  },
+  {
+    "name": "The old head of Kinsale",
+    "locationName": "Kinsale, Cork",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 51.604121,
+    "long": -8.533729,
+    "description": "When you walk afar.<br>Waves pound the rocks.<br>In a glorious symphony<br>"
+  },
+  {
+    "name": "Petite Bonhomme",
+    "locationName": "Bray, Wicklow",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 53.201771,
+    "long": -6.095891,
+    "description": "A story by Jules Vernes.<br>An orphan boy lets birds go free for sixpence<br> "
+  },
+  {
+    "name": "Clew bay",
+    "locationName": "Clew bay, Mayo",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 53.883252,
+    "long": -9.600313,
+    "description": "They rode, they fished.<br>They floated by.<br>In a bay so free.<br>"
+  },
+  {
+    "name": "A gift from the sea",
+    "locationName": "Portrane, Dublin",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 53.493078,
+    "long": -6.098821,
+    "description": "The sun glimmers on the water.<br>And sparkles on the stones.<br>Look again.<br>"
+  },
+  {
+    "name": "Valentia harbour",
+    "locationName": "Valentia harbour, Kerry",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 51.928306,
+    "long": -10.295975,
+    "description": "Saint Fursey in the 6th century.<br>Brought his stream of christianity.<br>To England and Europe.<br>He is mentioned in Ulysses.<br>"
+  },
+  {
+    "name": "Cuan Dhun Delgan",
+    "locationName": "Dundalk bay, Louth",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 53.981192,
+    "long": -6.140604,
+    "description": "In Dundalk bay<br>This stone I found.<br>I could not leave it in the sand.<br>It made its way into my hand.<br>"
+  },
+  {
+    "name": "Torr head",
+    "locationName": "Torr head, Antrim",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 55.226505,
+    "long": -6.155779,
+    "description": "To Torr head and all in between.<br>Complete silence over the sea.<br>Just a little bird and me.<br>Tall elegant bird like cliff.<br>Stands detached.<br>Suddenly a chowgh flies out to sea.<br>"
+  },
+  {
+    "name": "Malin head",
+    "locationName": "Malin head, Donegal",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 55.377462,
+    "long": -7.394556,
+    "description": "Looking back with my mind I see.<br>A magic coast full of history.<br>"
+  },
+  {
+    "name": "Dysert O'Dea 1",
+    "locationName": "Dysert O'Dea, Clare",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 52.932877,
+    "long": -9.474702,
+    "description": "Sharing their knowledge.<br>They came, they went.<br>Over the rolling waves.<br>The coast a welcome place of rest.<br>"
+  },
+  {
+    "name": "Dysert O'Dea 2",
+    "locationName": "Dysert O'Dea, Clare",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 52.932877,
+    "long": -9.474702,
+    "description": "Sharing their knowledge.<br>They came, they went.<br>Over the rolling waves.<br>The coast a welcome place of rest.<br>"
+  },
+  {
+    "name": "Ceallunach",
+    "locationName": "Kells beach, Kerry",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 52.026025,
+    "long": -10.106735,
+    "description": "You little Celline, lie underground.<br>Send bursting up a glory of flowers.<br>You are not forgotten.<br>"
+  },
+  {
+    "name": "Gifts from the sea",
+    "locationName": "",
+    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
+    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "lat": 51.5353,
+    "long": -9.1219,
+    "description": "The waters of life<br>Create a luminous garden.<br>"
+  }
 ]
