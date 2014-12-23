@@ -2,25 +2,26 @@
   {
     "name": "Poolbeg",
     "locationName": "Sandymount, Dublin",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Sandymount_50px.jpg",
+    "imgPreviewUrl": "img/Sandymount.jpg",
+    "lat": 53.327266,
     "long": -6.208541,
     "description": "Although he leaves this shore.<br>He looks back more and more.<br>It is ever deep in his hearts core<br>"
   },
   {
     "name": "The flight of the earls",
     "locationName": "kilcoole strand, wicklow",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/The_flight_of_the_earls_50px.jpg",
+    "imgPreviewUrl": "img/The_flight_of_the_earls.jpg",
     "lat": 53.106173,
     "long": -6.041466,
     "description": "The end of the old gaelic order"
   },
   {
-    "name": "Cill Mhantáin",
+    "name": "Cill Mhantain",
     "locationName": "Wicklow, ? beach",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Cill_mhantain_50px.jpg",
+    "imgPreviewUrl": "img/Cill_mhantain.jpg",
     "lat": 52.978497,
     "long": -6.030538,
     "description": "A little cove where some monks landed and were driven off by local people (Vikings?) who threw stones that broke the teeth of one of the monks"
@@ -28,8 +29,8 @@
   {
     "name": "Knockadoon",
     "locationName": "Knockadoon, Cork",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Knockadoon_50px.jpg",
+    "imgPreviewUrl": "img/Knockadoon.jpg",
     "lat": 51.900849,
     "long": -7.906572,
     "description": "Out of the mist, a horseman rode.<br>All my romantic responses explode.<br>"
@@ -37,8 +38,8 @@
   {
     "name": "A message",
     "locationName": "Temple Brady, Crosshaven",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/A_message_50px.jpg",
+    "imgPreviewUrl": "img/A_message.jpg",
     "lat": 51.809556,
     "long": -8.280306,
     "description": "A now deserted army camp purched by the sea.<br>A sense of ghost of young men in kaki, all dead and gone.<br>Now gull and crow live and breathe and the knowledge of the sea, we sadly unheed.<br>"
@@ -46,8 +47,8 @@
   {
     "name": "The old head of Kinsale",
     "locationName": "Kinsale, Cork",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/The_old_head_of_kinsale_50px.jpg",
+    "imgPreviewUrl": "img/The_old_head_of_kinsale.jpg",
     "lat": 51.604121,
     "long": -8.533729,
     "description": "When you walk afar.<br>Waves pound the rocks.<br>In a glorious symphony<br>"
@@ -55,8 +56,8 @@
   {
     "name": "Petite Bonhomme",
     "locationName": "Bray, Wicklow",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Petite_bonhomme_50px.jpg",
+    "imgPreviewUrl": "img/Petite_bonhomme.jpg",
     "lat": 53.201771,
     "long": -6.095891,
     "description": "A story by Jules Vernes.<br>An orphan boy lets birds go free for sixpence<br> "
