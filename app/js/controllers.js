@@ -4,9 +4,15 @@ function onGoogleReady() {
 
 var myControllers = angular.module('myControllers', []);
 
+myControllers.filter('unsafe', ['$sce', function ($sce) {
+    return function (val) {
+        return $sce.trustAsHtml(val);
+    };
+}]);
+
 myControllers.controller('MapCtrl', ['$scope', '$http',
   function($scope, $http)	{
-    // Get geoAartworks
+    // Get geoArtworks
     $http.get('data/geoArtworks.json').success(function(data) {
     $scope.geoArtworks= data;
       });
@@ -33,7 +39,8 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
             position: new google.maps.LatLng(g.lat, g.long),
             icon :image,
             mapInfoWindowName: g.name,
-            mapInfoWindowImg: g.imgPreviewUrl
+            mapInfoWindowImg: g.imgPreviewUrl,
+            mapInfoWindowDescription: g.description
         });
     	$scope.myMarkers.push(marker);
     } 
@@ -54,6 +61,7 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
 	console.log("showMarkerInfo");
         $scope.currentMapInfoWindowName = marker.mapInfoWindowName;
         $scope.currentMapInfoWindowImg = marker.mapInfoWindowImg;
+        $scope.currentMapInfoDescription = marker.mapInfoWindowDescription;
     	$scope.myInfoWindow.open($scope.myMap, marker);
     };    
 }]);
