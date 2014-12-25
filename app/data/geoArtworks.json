@@ -6,7 +6,7 @@
     "imgPreviewUrl": "img/Sandymount.jpg",
     "lat": 53.327266,
     "long": -6.208541,
-    "description": "Although he leaves this shore.<br>He looks back more and more.<br>It is ever deep in his hearts core<br>"
+    "description": "Although he leaves this shore,<br>he looks back more and more.<br>It is ever deep in his hearts core."
   },
   {
     "name": "The flight of the earls",
@@ -24,7 +24,7 @@
     "imgPreviewUrl": "img/Cill_mhantain.jpg",
     "lat": 52.978497,
     "long": -6.030538,
-    "description": "A little cove where some monks landed and were driven off by local people (Vikings?) who threw stones that broke the teeth of one of the monks"
+    "description": "A little cove where some monks landed<br> and were driven off by local people (Vikings?),<br> who threw stones that broke the teeth of one of the monks"
   },
   {
     "name": "Knockadoon",
@@ -33,7 +33,7 @@
     "imgPreviewUrl": "img/Knockadoon.jpg",
     "lat": 51.900849,
     "long": -7.906572,
-    "description": "Out of the mist, a horseman rode.<br>All my romantic responses explode.<br>"
+    "description": "Out of the mist, a horseman rode.<br>All my romantic responses explode."
   },
   {
     "name": "A message",
@@ -42,7 +42,7 @@
     "imgPreviewUrl": "img/A_message.jpg",
     "lat": 51.809556,
     "long": -8.280306,
-    "description": "A now deserted army camp purched by the sea.<br>A sense of ghost of young men in kaki, all dead and gone.<br>Now gull and crow live and breathe and the knowledge of the sea, we sadly unheed.<br>"
+    "description": "A now deserted army camp purched by the sea,<br>a sense of ghost of young men in kaki, all dead and gone.<br>Now gull and crow live and breathe and the knowledge of the sea, we sadly unheed."
   },
   {
     "name": "The old head of Kinsale",
@@ -51,7 +51,7 @@
     "imgPreviewUrl": "img/The_old_head_of_kinsale.jpg",
     "lat": 51.604121,
     "long": -8.533729,
-    "description": "When you walk afar.<br>Waves pound the rocks.<br>In a glorious symphony<br>"
+    "description": "When you walk afar,<br>waves pound the rocks,<br>in a glorious symphony."
   },
   {
     "name": "Petite Bonhomme",
@@ -60,96 +60,96 @@
     "imgPreviewUrl": "img/Petite_bonhomme.jpg",
     "lat": 53.201771,
     "long": -6.095891,
-    "description": "A story by Jules Vernes.<br>An orphan boy lets birds go free for sixpence<br> "
+    "description": "A story by Jules Vernes.<br>An orphan boy lets birds go free for sixpence."
   },
   {
     "name": "Clew bay",
     "locationName": "Clew bay, Mayo",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Clew_bay_50px.jpg",
+    "imgPreviewUrl": "img/Clew_bay.jpg",
     "lat": 53.883252,
     "long": -9.600313,
-    "description": "They rode, they fished.<br>They floated by.<br>In a bay so free.<br>"
+    "description": "They rode, they fished,<br>they floated by,<br>in a bay so free."
   },
   {
     "name": "A gift from the sea",
     "locationName": "Portrane, Dublin",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/A_gift_from_the_sea_50px.jpg",
+    "imgPreviewUrl": "img/A_gift_from_the_sea.jpg",
     "lat": 53.493078,
     "long": -6.098821,
-    "description": "The sun glimmers on the water.<br>And sparkles on the stones.<br>Look again.<br>"
+    "description": "The sun glimmers on the water,<br>and sparkles on the stones,<br>Look again."
   },
   {
     "name": "Valentia harbour",
     "locationName": "Valentia harbour, Kerry",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Valentia_harbour_50px.jpg",
+    "imgPreviewUrl": "img/Valentia_harbour.jpg",
     "lat": 51.928306,
     "long": -10.295975,
-    "description": "Saint Fursey in the 6th century.<br>Brought his stream of christianity.<br>To England and Europe.<br>He is mentioned in Ulysses.<br>"
+    "description": "Saint Fursey in the 6th century,<br>brought his stream of christianity,<br>to England and Europe.<br>He is mentioned in Ulysses."
   },
   {
     "name": "Cuan Dhun Delgan",
     "locationName": "Dundalk bay, Louth",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Cuan_dhun_delgan_50px.jpg",
+    "imgPreviewUrl": "img/Cuan_dhun_delgan.jpg",
     "lat": 53.981192,
     "long": -6.140604,
-    "description": "In Dundalk bay<br>This stone I found.<br>I could not leave it in the sand.<br>It made its way into my hand.<br>"
+    "description": "In Dundalk bay,<br>this stone I found.<br>I could not leave it in the sand.<br>It made its way into my hand."
   },
   {
     "name": "Torr head",
     "locationName": "Torr head, Antrim",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Torr_head_50px.jpg",
+    "imgPreviewUrl": "img/Torr_head.jpg",
     "lat": 55.226505,
     "long": -6.155779,
-    "description": "To Torr head and all in between.<br>Complete silence over the sea.<br>Just a little bird and me.<br>Tall elegant bird like cliff.<br>Stands detached.<br>Suddenly a chowgh flies out to sea.<br>"
+    "description": "To Torr head and all in between,<br>complete silence over the sea.<br>Just a little bird and me,<br>tall elegant bird like cliff,<br>stands detached.<br>Suddenly a chowgh flies out to sea."
   },
   {
     "name": "Malin head",
     "locationName": "Malin head, Donegal",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Malin_head_50px.jpg",
+    "imgPreviewUrl": "img/Malin_head.jpg",
     "lat": 55.377462,
     "long": -7.394556,
-    "description": "Looking back with my mind I see.<br>A magic coast full of history.<br>"
+    "description": "Looking back with my mind I see,<br>a magic coast full of history."
   },
   {
     "name": "Dysert O'Dea 1",
     "locationName": "Dysert O'Dea, Clare",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Dysert_o_dea1_50px.jpg",
+    "imgPreviewUrl": "img/Dysert_o_dea1.jpg",
     "lat": 52.932877,
     "long": -9.474702,
-    "description": "Sharing their knowledge.<br>They came, they went.<br>Over the rolling waves.<br>The coast a welcome place of rest.<br>"
+    "description": "Sharing their knowledge,<br>they came, they went.<br>Over the rolling waves,<br>the coast a welcome place of rest."
   },
   {
     "name": "Dysert O'Dea 2",
     "locationName": "Dysert O'Dea, Clare",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
-    "lat": 52.932877,
-    "long": -9.474702,
-    "description": "Sharing their knowledge.<br>They came, they went.<br>Over the rolling waves.<br>The coast a welcome place of rest.<br>"
+    "imgMarkerUrl": "img/Dysert_o_dea2_50px.jpg",
+    "imgPreviewUrl": "img/Dysert_o_dea2.jpg",
+    "lat": 52.931066, 
+    "long": -9.464660,
+    "description": "Sharing their knowledge,<br>they came, they went.<br>Over the rolling waves,<br>the coast a welcome place of rest."
   },
   {
     "name": "Ceallunach",
     "locationName": "Kells beach, Kerry",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Ceallunach_50px.jpg",
+    "imgPreviewUrl": "img/Ceallunach.jpg",
     "lat": 52.026025,
     "long": -10.106735,
-    "description": "You little Celline, lie underground.<br>Send bursting up a glory of flowers.<br>You are not forgotten.<br>"
+    "description": "You little Celline, lie underground,<br>send bursting up a glory of flowers.<br>You are not forgotten."
   },
   {
     "name": "Gifts from the sea",
     "locationName": "",
-    "imgMarkerUrl": "img/Stars_and_Stones_I_50px.jpg",
-    "imgPreviewUrl": "img/Stars_and_Stones_I.jpg",
+    "imgMarkerUrl": "img/Gifts_from_the_sea_50px.jpg",
+    "imgPreviewUrl": "img/Gifts_from_the_sea.jpg",
     "lat": 51.5353,
     "long": -9.1219,
-    "description": "The waters of life<br>Create a luminous garden.<br>"
+    "description": "The waters of life,<br>create a luminous garden."
   }
 ]
