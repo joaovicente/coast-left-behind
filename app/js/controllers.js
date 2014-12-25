@@ -21,7 +21,7 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
     var ll = new google.maps.LatLng(53.4137833,-7.7650354);
     $scope.mapOptions = {
       center: ll,
-      zoom: 7,
+      zoom: 6,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     };
     
