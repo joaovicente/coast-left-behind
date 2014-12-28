@@ -62,6 +62,9 @@ myControllers.controller('MapCtrl', ['$scope', '$http',
         $scope.currentMapInfoWindowName = marker.mapInfoWindowName;
         $scope.currentMapInfoWindowImg = marker.mapInfoWindowImg;
         $scope.currentMapInfoDescription = marker.mapInfoWindowDescription;
+	console.log("$scope.myInfoWindow follows:");
+	console.log($scope.myInfoWindow);
+	console.log("$scope.myInfoWindow ends:");
     	$scope.myInfoWindow.open($scope.myMap, marker);
     };    
 }]);

@@ -4,9 +4,9 @@
       <div id="map_canvas" ui-map="myMap" style="min-height:700px" class="col-lg-12 col-md-12 col-xs-12" ui-options="mapOptions" ui-event="{'map-idle' : 'onMapIdle()'}"></div>            
       <!--In addition to creating the markers on the map, div elements with existing google.maps.Marker object should be created to hook up with events -->
       <div ng-repeat="marker in myMarkers" ui-map-marker="myMarkers[$index]" ui-event="{'map-click':'showMarkerInfo(marker)'}"></div>
-      <div ui-map-info-window="myInfoWindow" style="padding: 40px;">
-        <h1>{{currentMapInfoWindowName}}</h1>
-        <img  src={{currentMapInfoWindowImg}}>
+      <div ui-map-info-window="myInfoWindow" style="min-height:350px;min-width:250px;overflow:scroll;">
+        <h1 style="font-size:20px">{{currentMapInfoWindowName}}</h1>
+        <img src={{currentMapInfoWindowImg}} style="max-width:100%;max-height:80%;"/>
 	<p ng-bind-html="currentMapInfoDescription | unsafe"></p>
       </div>
     </div>
