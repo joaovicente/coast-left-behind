@@ -1,15 +1,12 @@
 <h1>{{title}}</h1>
 <div class="container">
-  <div class="row">
-    <div ng-repeat="painting in geoArtworks" class="col-lg-12 col-md-12 col-xs-12 thumb">
-    <p class="text-primary"> {{painting.name}} </p>
-    <p class="text-info" ng-bind-html="painting.description | unsafe"></p>
-      <a class="thumbnail" style="background-color: #000;border: 0px">
-	<img class="img-responsive" src={{painting.imgPreviewUrl}}>
-      </a>
-    </div>
-  </div>
+	<div ng-repeat="painting in geoArtworks" class="row">
+		<div  class="col-lg-4 col-md-4 col-xs-12">
+			<p class="text-primary"> {{painting.name}} </p>
+			<p class="text-info" ng-bind-html="painting.description | unsafe"></p>
+		</div>
+		<div  class="col-lg-8 col-md-8 col-xs-12" >			
+				<img style="padding-bottom: 50px;" class="img-responsive" src={{painting.imgPreviewUrl}}>
+		</div>
+	</div>
 </div>
-
-
-
