@@ -53,6 +53,11 @@ We have preconfigured `npm` to automatically run `bower` so we can simply do:
 npm install
 ```
 
+In case that fails with `npm ERR! fetch failed ...` try 
+```
+npm config set registry http://registry.npmjs.org/
+```
+
 Behind the scenes this will also call `bower install`.  You should find that you have two new
 folders in your project.
 
